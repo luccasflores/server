@@ -1,0 +1,2 @@
+# server
+server 404
